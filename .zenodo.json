@@ -1,0 +1,47 @@
+{
+	"description": "This repository contains scripts for the simulation study to evaluate the performance of different classifiers and feature extraction strategies on active learning tasks applied to systematic reviewing. This repository contains the necessary scripts to run the simulation and obtain relevant information about each one (runtime, metrics and plots). The data used for the simulations was originally retrieved by Brouwer, Williams et al. ",
+	"title": "Scripts for a simulation study into comparing the performance of neural network models and clasical models for Active Learning applied to Systematic Reviewing",
+	"creators": [{
+			"name": "Vizán Siso, Pablo",
+			"affiliation": "Applied Data Science, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-8782-6232"
+		},
+		{
+			"name": "Hofstee, Laura",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-9638-7657"
+		},
+		{
+			"name": "Bagheri, Ayoub",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-6366-2173"
+		}
+	],
+	"contributors": [{
+			"name": "Van de Schoot, Rens",
+			"affiliation": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-7736-2091",
+			"type": "ProjectLeader" 
+		},
+		{
+			"name": "De Bruin, Jonathan",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0002-4297-0502",
+			"type": "DataManager" 
+		}
+	],
+	"keywords": [
+		"ASReview",
+		"active learning",
+		"machine learning",
+		"KEYWORD"
+	],
+	"related_identifiers": [
+		{
+			"relation": "isSupplementTo",
+		 	"identifier": "https://doi.org/10.5281/zenodo.3345592"
+		}
+	],
+	"license": "MIT",
+	"upload_type": "software"
+}

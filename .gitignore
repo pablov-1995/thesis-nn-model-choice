@@ -1,0 +1,11 @@
+# Ignore idea
+.idea/
+# Ignore data
+data/brouwer_clean.csv
+original_data/brouwer_2019.csv
+# Ignore output
+output/
+# Ignore scripts
+scripts/
+# Ignore template (only jobs.sh is needed)
+template_thesis_nn_model_choice.txt.template
