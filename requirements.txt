@@ -2,3 +2,6 @@ asreview==0.17
 asreview-wordcloud==0.4
 asreview-statistics==0.4
 asreview-visualization==0.4
+gensim
+sentence-transformers
+tensorflow
